@@ -1,2 +1,0 @@
-# sucharita
-Created with CodeSandbox
